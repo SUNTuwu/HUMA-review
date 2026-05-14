@@ -1,4 +1,4 @@
-# Culturalism and Manyi barbarians
+# 1. Culturalism and Manyi barbarians
  Culturalism was a political community model in imperial China, distinct from ethnic-based identity. It defined community through shared cultural values and Confucian doctrines, meaning "barbarians" (manyi) could become part of this community through education and imitation, distinguishing themselves from uncultured others. Historically, the Huaxia group categorized surrounding non-Huaxia peoples as the "barbarians of four directions": the eastern Yi, western Rong, northern Di, and southern Man. The early "Chinese" state was small, with the rest of what is now China ruled by these ethnic groups, collectively called manyi.
 (Sources: HUMA2635_5.pdf, p.3; HUMA2635_2.pdf, p.3)
 
@@ -14,7 +14,7 @@ Mechanism: (education, imitation模仿, and Sinification) Through education and
 
 Historical facts: (four barbarian categories & Huaxia)The Huaxia group called the non-Huaxia peoples of four directions: eastern Yi, western Rong, northern Di, and southern Man (東夷; 北狄; 西戎; 南蛮). The early "Chinese" state was small (黄河流域以及长三角the Yellow River plain and the Yangtze River delta). The rest of what is now China was ruled by groups called barbarians by the Huaxia(是一个逐步扩展的过程). (Source: HUMA2635_2.pdf p.3)
 
-# Nation-state after 1911
+# 2. Nation-state after 1911
 After the fall of the Qing, republican leaders were heavily influenced by Western-style nationalism and used it as the foundation for a new state. As the course materials note, Western theories of nationalism are deeply embedded in modernization theory (HUMA2635_5, p.11). The Kuomintang (KMT) thus viewed the nation as a unique and unprecedented form of community, positioned in opposition to both "empire" and "tradition" on one side, and "modernity" on the other.
 This modernization framework, however, obscures 掩盖 the radically novel nature of national identity. According to the lecture, national identity is a new form of consciousness, and nationalism is an identification based on the modern nation-state system (HUMA2635_5, p.13). Crucially, the nation-state system sanctions the nation-state as the only legitimate form of polity, and its ideology sanctions the penetration of state power into areas once dominated by local structures (HUMA2635_5, p.14).
 Ultimately, both the KMT and later the CCP emphasized the Chinese nation-state as the form through which "the people" realize themselves as masters of their own history. This discourse of the people as sovereign remains the single most important source of legitimacy of the nation-state within China (HUMA2635_5, p.8).
@@ -36,7 +36,7 @@ Consequences:
 •	(penetration of state power 国家权力渗透) The ideology of the nation-state system has sanctioned the penetration of state power into areas that were once dominated by local structures. (Source: HUMA2635_5.pdf, p.14)
 •	(popular sovereignty 人民主权 / source of legitimacy 合法性来源) The statement of the people as sovereign remains the single most important source of legitimacy of the nation-state within the nation in China. (Source: HUMA2635_5.pdf, p.8)
 
-# Debates between the Constitutional monarchists and Revolutionaries before the 1911 Revolution
+# 3. Debates between the Constitutional monarchists and Revolutionaries before the 1911 Revolution
 Before the 1911 Revolution, a fundamental debate arose over the basis of political community. Constitutional monarchists, inheriting 继承 the Confucian culturalist notion, argued that community should be defined by shared culture and values rather than restricted to a specific race or ethnic group. In contrast, revolutionaries adopted a Social Darwinist conception centered on race, envisioning the "survival of the fittest races" to justify an old ethnocentric celebration of the Han as the exclusive foundation of the nation. This marked a sharp ideological split between an inclusive, culture-based vision of China and an exclusive, race-based one.
 (Source: HUMA2635_5.pdf, p.6)
 
@@ -51,7 +51,7 @@ Revolutionaries' view: (Social Darwinism) (Led by Zhang Binglin, Zou Rong, and 
 
 Revolutionary theoretical tool: (Han ethnocentrism) Used the "survival of the fittest" idea to justify the old ethnocentric celebration of the Han. (Source: HUMA2635_5.pdf p.6) 感觉不如直接说意识形态的对立分裂‘This marked a sharp ideological split between an inclusive, culture-based vision of China and an exclusive, race-based one.’
 
-# Chiang Kai-shek’s arguments about peoples in China
+# 4. Chiang Kai-shek’s arguments about peoples in China
 Chiang Kai-shek argued that China's various clans 氏族 belonged to the same racial stock (种族), framing the nation as a "Single Cultural and Political whole." He claimed the designation 划分 of five peoples in China resulted not from race or blood differences but from regional and religious factors. This argument directly minimized ethnic distinctions, which were instead attributed to geography and religion, thereby reinforcing a narrative of inherent racial unity among all groups 统一民族叙事, including Mongols, Manchus, and Tibetans, under a single Chinese nationality.
 (Source: HUMA2635_5.pdf, p.17)
 
@@ -64,7 +64,7 @@ Explanation of differences: (religion and geography) The five peoples 汉满蒙�
 
 Political conclusion: (single cultural-political whole) The Chinese people form a "Single Cultural and Political whole". (Source: HUMA2635_5.pdf p.17)
 
-# The Dalai Lama and the Panchen Lama
+# 5. The Dalai Lama and the Panchen Lama
 In Tibet, the Dalai Lama’s temporal and spiritual rule was recognized, with the reincarnation system established during the Ming dynasty. The Dalai Lama is the reincarnation of Avalokitesvara (观世音菩萨), while the Fifth Dalai Lama proclaimed the Panchen Lama the reincarnation of Amitabha (阿弥陀佛), the teacher of Avalokitesvara. Although some argued the Panchen Lama was spiritually superior, the Panchen Lama’s temporal powers remained minimal, while those of the Dalai Lama were supreme. The 13th Dalai Lama used an alliance with Britain to consolidate power over semi-feudal components including the 9th Panchen Lama’s areas, prompting the Panchen Lama to turn to Chinese central authorities for aid against their common enemies. Qing reforms required the Dalai Lama be reincarnated in a commoner’s family and the amban supervised these regulations to bureaucratize Tibetan administration.
 (Sources: HUMA2635_10.pdf, pp.6–9; HUMA2635_5.pdf, p.48)
 为什么西藏的事情总是这么复杂><
@@ -86,10 +86,9 @@ Since powerful families often sought to have the Dalai Lama declared reincarnate
 Historical conflict (13th Dalai Lama / 9th Panchen Lama / Britain and China alliances)
 The 13th Dalai Lama used an alliance with Britain to strengthen his control over semi-feudal components, including the areas of the 9th Panchen Lama. This led the Panchen Lama to turn to the Chinese central government for aid against their common enemies — the Dalai Lama and Britain. (Source: HUMA2635_10.pdf, p.9)
 
-# The formulation of historical materialism
+# 6. The formulation of historical materialism
 Historical materialism posits 假设 that a superstructure is based on an economic base. Cultural systems, such as family forms, change as a result of changes in modes of production. It identifies five sequential modes: Primitive → Slavery → Feudal → Capitalist → Socialist → Communist.明明是六个？ Human history proceeds everywhere through these distinct stages, each consisting of a complex of related cultural traits. Consequently, people who display certain cultural traits are representative of the particular stage in which those traits occur. For example, the Mosuo’s matriliny indicates they are at the second substage of the primitive stage. This framework served as the theoretical basis for classifying minority societies within a universal evolutionary scheme.
 (Source: HUMA2635_6.pdf, pp.7–8)
-
 
 ## Logic: Base → Superstructure → Mechanism → Five historical stages → Cultural traits as stage markers → Example
 经济基础决定上层建筑；生产力决定生产关系； 物质生产力对社会结构和意识形态有决定性影响；5个/6个社会发展阶段：原始 奴隶 封建 资本 社会 共产；每个社会阶段都有其文化特征
@@ -105,44 +104,56 @@ Stage markers: (Cultural traits 文化特征) Each stage consists of a complex o
 
 可加Example: The Mosuo's matriliny means that they are at the second substage of the primitive stage. (Source: HUMA2635_6.pdf p.8)
 
-# Identification of nationalities
-The Chinese state follows Stalin’s 1913 definition: a historically constituted, stable community formed on the basis of a common language, territory, economic life, and psychological make-up manifested in a common culture. Through systematic identification, over 400 ethnic groups were investigated, and by 1979, 55 minority nationalities had been officially recognized. This process was not based purely on cultural distinctiveness; groups like the Hakkas, though culturally and linguistically distinct, were classified as part of the Han majority, while the Mosuo were designated a branch of the Naxi. The identification thus involved both objective criteria and state categorization.
+# 7. Identification of nationalities
+The Chinese state follows Stalin’s 1913 definition: a historically constituted, stable community formed on the basis of a common language, territory, economic life, and psychological make-up manifested in a common culture. Through systematic identification, over 400 ethnic groups were investigated, and by 1979, 55 minority nationalities had been officially recognized. This process was not based purely on cultural distinctiveness; groups like the Hakkas, though culturally and linguistically distinct, were classified as part of the Han majority, while the Mosuo were designated a branch of the Naxi. **The identification thus involved both objective criteria and state categorization.**
 (Sources: HUMA2635_6.pdf, p.25; HUMA2635_1.pdf, p.20)
 
 ## Logic: Theory (Stalin)→ Scope of classification → Outcome Example
+根据斯大林的理论，历史上构建的稳定的共同体，基于共同语言、领土、经济、心理（文化）。依据理论，调查识别到数百民族群体，但由国家官方认可的有55个少数民族。所以识别过程是客观标准+国家分类
 
 Theory: (language, territory, economy, and psychology) nationality is a historically constituted, stable community of people, formed on the basis of a common language, territory, economic life, and psychological make-up manifested in a common culture. (Source: HUMA2635_6.pdf p.25)
 
-Scope of classification: (400+ → 55) By 1979, the number of 55 nationalities was reached, identified from more than 400 ethnic groups. (Source: HUMA2635_6.pdf p.25)
+Scope of classification: (400+ → 55) By 1979, the number of 55 nationalities was reached, identified from more than 400 ethnic groups. (Source: HUMA2635_6.pdf p.25)数字太难背QAQ
 
-可加Example1: (Hakkas = Han) The Hakkas, though culturally, linguistically, and socially distinct, are classified as part of the Han majority. (Source: HUMA2635_1.pdf p.20)
+可加Example1: (Hakkas客家 = Han) The Hakkas, though culturally, linguistically, and socially distinct, are classified as part of the Han majority. (Source: HUMA2635_1.pdf p.20)
 
 可加Example2: (Mosuo = Naxi branch) The Mosuo are not recognized as a separate nationality; they are considered a branch of the Naxi. (Source: HUMA2635_1.pdf p.20)
 
-The Sufism orders in China
-Sufism began making a substantial impact in China from the late 17th century, with many Sufi reforms spreading throughout Northwest China during the early Qing. Sufi orders gradually became institutionalized into forms such as menhuan (saintly lineages). Four major orders maintain significant influence among the Northwest Hui today: Qadiriyya, Jahriyya, Khufiyya, and Kubrawiyya. Some orders, like certain Gansu menhuan, mandated biological descent to transmit divine blessing (baraka, 神圣祝福), while others required teacher-disciple transmission. Saint’s tombs had shrines (gongbei) that became devotional centers. Chinese Sufi mysticism shows similarities to Daoism, with Confucian moral tenets, Daoist mystical concepts, and Buddhist folk rituals infused with Islamic content. The Jahriyya order was founded by Ma Mingxin after 16 years of study in the Middle East.
+# 8. The Sufism orders in China
+Sufism began making a substantial impact in China from the late 17th century, with many Sufi reforms spreading throughout Northwest China during the early Qing. Sufi orders gradually became institutionalized into forms such as menhuan (saintly lineages). Four major orders maintain significant influence among the Northwest Hui today: Qadiriyya (嘎得林耶), Jahriyya (哲赫忍耶), Khufiyya (虎夫耶), and Kubrawiyya (庫布忍耶). Some orders, like certain Gansu menhuan, mandated biological descent to transmit divine blessing (baraka, 神圣祝福), while others required teacher-disciple transmission. Saint’s tombs had shrines (gongbei) that became devotional centers. Chinese Sufi mysticism shows similarities to Daoism, with Confucian moral tenets, Daoist mystical concepts, and Buddhist folk rituals infused with Islamic content. The Jahriyya order was founded by Ma Mingxin after 16 years of study in the Middle East.
+这些名字太逆天了我不背了QwQ
+评价是西北的事情比西藏还复杂╰（‵□′）╯
 
+## Logic: Arrival → Institutional form (menhuan) → Internal transmission structure → Spatial practice→ Cultural expression → Concrete example
+苏菲主义在17世纪末开始在中国产生重大影响（主要在西北），其教团逐渐制度化为menhuan制度（=血统的世俗权力+教派内宗教权力），有些教派如gansu的要求血统传承口唤/祝福，其他的一些则要求师徒传承。于是拱北成为信仰中心（口唤传承中圣徒的神圣性需要空间载体，拱北就是这种神圣性的物质化），在发展中与道教、儒家、佛教融合，借助本土传统来表达和传播
 
-> **Logic: Arrival→ Institutional form (门宦) → Transmission methods → Four major orders → Cultural syncretism (融合) → Specific order case**
+Historical arrival: (late 17th century 17世纪末 / early Qing 清初)
+Sufism did not begin to make a substantial impact in China until the late 17th century. Many Sufi reforms spread throughout Northwest China during the early decades of the Qing dynasty. (Source: HUMA2635_7.pdf, p.38)
 
-Arrival: (late 17th century Qing) Sufism did not begin to make a substantial impact in China until the late 17th century. Many Sufi reforms spread throughout Northwest China during the early decades of the Qing dynasty. (Source: HUMA2635_7.pdf p.38)
+Institutional form: (menhuan 门宦 / saintly lineages 圣裔谱系)
+Sufi orders were gradually institutionalized into such forms as menhuan, meaning “saintly lineages.” (Source: HUMA2635_7.pdf, pp.38, 43)
 
-Institutional form: (menhuan门宦 (saintly lineages)) Sufi orders were gradually institutionalized into such forms as menhuan, meaning "saintly lineages." (Source: HUMA2635_7.pdf p.38,43)
+Internal transmission structure: (baraka 口唤/神圣祝福 / biological descent 血统传承 vs. teacher-disciple transmission 师徒传承)
+Divine Blessing (baraka) flows from God to the charismatic leader (shaykh). Baraka transmission could occur by biological descent — thus sanctioning menhuan — or by teacher-disciple transmission. Questioning the legitimacy of transmission can lead to conflict, violence, and schism.
+这些名字太逆天了我不背了￣へ￣
+Four major orders maintain influence among the Northwest Hui: Qadiriyya, Jahriyya, Khufiyya, and Kubrawiyya. (Source: HUMA2635_7.pdf, pp.42-44)
 
-Transmission: (biological血缘 vs. teacher-disciple师徒) Divine Blessing (baraka, 口唤) flows from God to the charismatic leader (shaykh). Baraka transmission could be by biological descent (sanctioning menhuan) or by teacher-disciple transmission. Questioning legitimacy can lead to conflict and violence. (Source: HUMA2635_7.pdf p.42-43)
+Spatial practice: (gongbei 拱北 / saint's tomb shrines 圣墓)
+Each saint's tomb had a shrine, or gongbei, and the main shrines became centers of devotional activity. (Source: HUMA2635_7.pdf, p.44)
 
-Four major orders: Four orders maintain significant influence among the Northwest Hui: Qadiriyya (嘎得林耶), Jahriyya (哲赫忍耶), Khufiyya (虎夫耶), and Kubrawiyya (庫布忍耶). (Source: HUMA2635_7.pdf p.44)
+Cultural expression: (syncretism 文化融合 / Daoism 道教 / Confucianism 儒家 / Buddhism 佛教)
+Chinese Sufi mysticism is similar to Daoism. Confucian moral tenets, Daoist mystical concepts, and Buddhist folk rituals infused with new Islamic content pervade Qadiriyya Sufism. (Source: HUMA2635_7.pdf, p.48)
 
-Cultural syncretism：(with Daoism/Confucianism) Chinese Sufi mysticism is similar to Daoism. Confucian moral tenets, Daoist mystical concepts, and Buddhist folk rituals infused with new Islamic content. (Source: HUMA2635_7.pdf p.48)
+可加Concrete example: (Jahriyya 哲赫忍耶 / Ma Mingxin 马明心 / five branch orders 五支派)
+The Jahriyya order was founded by Ma Mingxin (1719-1781), who studied in the Middle East and Yemen for 16 years. After disputes escalated and Qing troops arrested Ma Mingxin in 1781, uprisings erupted. Following their failure, the Jahriyya became more secretive and dispersed, leading to five main branch orders. (Source: HUMA2635_7.pdf, pp.48-49)
 
-可加Specific order case: (Ma Mingxin / five branches) The Jahriyya order was founded by Ma Mingxin (1719-1781), who studied in the Middle East and Yemen for 16 years. After disputes and Qing troop arrest of Ma Mingxin, uprisings erupted, leading to the establishment of five main Jahriyya branch orders. (Source: HUMA2635_7.pdf p.48-49)
-
-## The Oases Structure in Xinjiang
-The oases structure in Xinjiang refers to the foundational geographical and social structure of the region, where population centers are separated by vast distances across arid terrain. Throughout history, these oases fostered significant social and cultural diversity precisely because of their isolation from one another. The most significant oases and towns include Kashgar, Khotan, Turpan, Hami, Ili, and the capital Urumchi. Each oasis possesses distinct characteristics: Islam arrived in Kashgar by 950 C.E., making it the Islamic heartland of Xinjiang; Khotan was a major cultural center on the southern branch of the Silk Road, linking to South Asia and Tibet; Turpan is the historic center of Uyghur culture, home to the non-Islamic Gaochang kingdom after 840 A.D.; and Ili has always been considered the richest area in Xinjiang, geographically isolated from the south and oriented toward Kazakhstan. Islamic life in the south, particularly Kashgar, is more conservative, with women completely veiled, while women in Turpan only wear headscarves. The oases identities and oases economic-political structure set the basic feature for Xinjiang society.
+# 9. The Oases Structure in Xinjiang
+The oases structure in Xinjiang refers to the foundational geographical and social structure of the region, where population centers are separated by great distances across desert. Throughout history, these oases had significant social and cultural diversity precisely because of their isolation from one another. The most significant oases and towns include Kashgar, Khotan, Turpan, Hami, Ili, and the capital Urumchi. Each oasis possesses its characteristics: Islam arrived in Kashgar by 950 C.E., making it the Islamic heartland of Xinjiang; Khotan was a major cultural center on the southern branch of the Silk Road, linking to South Asia and Tibet; Turpan is the historic center of Uyghur culture, home to the non-Islamic Gaochang kingdom after 840 A.D.; and Ili has always been considered the richest area in Xinjiang, geographically isolated from the south and oriented toward Kazakhstan. Islamic life in the south, particularly Kashgar, is more conservative, with women completely covered, while women in Turpan only wear headscarves. The oases identities and oases economic-political structure set the basic feature for Xinjiang society.
 (Sources: HUMA2635_8.pdf, pp.37, 39, 43-45, 50, 52)
 
 
-> **Logic: Defining feature → Major oases and their characteristics → Social contrasts → Overall significance**
+## Logic: Defining feature → Major oases and their characteristics → Social contrasts → Overall significance
+新疆的绿洲结构是地理的也是社会的。绿洲、城镇之间因戈壁旱地分隔极远，这也使得社会和文化多样性在这得到促进，主要绿洲和城镇（人口中心）：喀什Kashgar伊斯兰中心，文化保守；和田Khotan丝绸之路南端的主要中心，连接南亚以及西藏； 吐鲁番Turpan维吾尔文化中心（高昌国公元840）；哈密Hami瓜好吃()；伊犁Ili最富庶，面向中亚，贸易发达，但是有泛突厥主义的政治压力；乌鲁木齐是自治区首府。这种绿洲结构奠定了新疆社会的基本特征。
 
 Feature: (diversity since distances separates the oases) Social and cultural diversity are fostered throughout history by the great distances separating the oases from one another. (Source: HUMA2635_8.pdf p.37)
 
@@ -158,30 +169,33 @@ Ili: (richest & Kazakhstan-oriented with Turkic political threat) Always conside
 
 Overall significance: Oases identities and oases economic-political structure set the basic feature for Xinjiang society. (Source: HUMA2635_8.pdf p.53)
 
-
-## The Yi and the Miao
-The Yi and the Miao are two major ethnic minority categories in Southwest China, each characterized by significant internal diversity. The Yi speak mutually incomprehensible languages sharing only 20-42% vocabulary across dialects. Yi societies are structured on very different principles: those in Yunnan display lowland agriculture, Han-style housing, and patrilocal (从父居住) marriage, while the Nuosu (Liangshan Yi) have neolocal (从新居住) marriage, a highly developed patriclan (父系氏族) system, and a strict social caste system with stratum endogamy (阶层内通婚). Historically, the term "Miao" was applied interchangeably with "Man" or "Yi" to refer to many indigenous (原住民) peoples of the southwestern frontier, all simply meaning "barbarians." Miao subgroups were distinguished by the dominant color of women's costumes, such as White, Black, Green, Red, and Hua Miao. Because they have always been called Miao by others, these peoples often lack a common self-identity, with competition typically occurring between local Miao and Han rather than among Miao subgroups.
+# 10. The Yi and the Miao
+The Yi and the Miao are two major ethnic minority categories in Southwest China, each characterized by significant internal diversity. The Yi speak mutually incomprehensible languages sharing only less than the half of vocabulary across dialects. Yi societies are structured on very different principles: those in Yunnan display lowland agriculture, Han-style housing, and patrilocal (从父居住) marriage, while the Nuosu (Liangshan Yi) have neolocal (从新居住) marriage, a highly developed patriclan (父系氏族) system, and a strict social caste system with stratum endogamy (阶层内通婚). Historically, the term "Miao" was applied interchangeably with "Man"蛮 or "Yi"彝 to refer to many indigenous (原住民) peoples of the southwestern frontier, all simply meaning "barbarians." Miao subgroups were distinguished by the dominant color of women's costumes, such as White, Black, Green, Red, and Hua Miao. Because these subgroups were geographically seperated and lacked contact with one another, they were called Miao only because they had always been called so by others; they never developed a common self-identity. As a result, competition for political office or economic advantages typically occurs not among Miao subgroups, but between local Miao and Han or other ethnic groups in the area.
 (Sources: HUMA2635_9.pdf pp.5, 9, 16, 17, 19, 21-22)
+怎么这么多专业术语o.O?
 
+## Logic: Internal diversity → Yi (diversity + structural contrast) → Miao (historical label + subgroup + No common self-identity but external competition)
+彝族和苗族作为两个在西南中国的主要少数民族，有着明显的内部多样性。彝族内部共通的语言不超过一半，社会结构也很不一样：云南彝族是低地农业，汉式房屋，从父居住婚姻；凉山彝族则是从新居住婚姻，有发达的父系氏族，严格的等级制度以及阶层内通婚。苗，彝，蛮三字历史上互换使用，指代西南原住民。苗族内部区分以女性服饰的主要颜色，由于subgroups地理分散缺乏联系，所以在被外部命名时缺乏内部认同，也因此竞争对象通常是与外部其他民族，如汉族。（因为内部本来也没啥联系）
 
-> **Logic: Southwest China → Yi (diversity + structural contrast) → Miao (historical label + subgroup + identity)**
-
-Yi diversity: (20-42% shared vocabulary) Languages are not mutually understandable; there is only 20-42% shared vocabulary between the Northern Dialect standard and other five regional dialects. (Source: HUMA2635_9.pdf p.5)
+Yi diversity: (less than 50% shared vocabulary) Languages are not mutually understandable; there is only 20-42% shared vocabulary between the Northern Dialect standard and other five regional dialects. (Source: HUMA2635_9.pdf p.5)
 
 Yi structural contrast: (Yunnan vs. Liangshan castes) Yunnan Yi feature lowland agriculture, Han-style housing, and patrilocal (从父居住) marriage; Nuosu (Liangshan Yi) feature neolocal (从新居住) marriage, a highly developed patriclan (父系氏族) system, strict social levels (castes, 种姓/等级), and are stratum-endogamous (阶层内通婚). (Source: HUMA2635_9.pdf p.9)
 
 Miao historical label: (interchangeable barbarian label) In the Ming period, the term was applied to many indigenous peoples, used interchangeably with "Man" or "Yi," all meaning "barbarians." (Source: HUMA2635_9.pdf p.16)
 
-Miao subgroup: (color-based subgroups) Distinguished by dominant color of women's costumes: White Miao, Black Miao, Green Miao, Red Miao, and Hua Miao. Guizhou Gazetteer (1741) named 13 kinds of Miao. (Source: HUMA2635_9.pdf pp.17, 19)
+Miao subgroup: (color-based subgroups) Distinguished by dominant color of women's costumes: White Miao, Black Miao, Green Miao, Red Miao, and Hua Miao.(Source: HUMA2635_9.pdf pp.17, 19)
 
-Miao identity: (externally named identity) Lack of contact among subgroups; they are called Miao because they have always been called by others as Miao. Competition is between local Miao and Han, not among Miao subgroups. (Source: HUMA2635_9.pdf pp.21-22)
+Miao identity: (externally named identity 外部命名/ no internal contact 缺乏内部交往) Because of a lack of contact among the scattered subgroups, these peoples are called Miao only because they have always been called so by others. They do not possess a common self-identity. (Source: HUMA2635_9.pdf, p.22)
 
-## The Tea and Horse Trade
-The tea and horse trade (茶馬貿易) was a barter commercial system between the agriculturists of interior provinces and the nomads of Tibet and Mongolia. While the main exchange items were tea and horses, the trade also encompassed various production and daily necessities. During the Tang Dynasty, such trade with northwest ethnic minorities was only sporadic and irregular, with no formal trade institution. The Song Dynasty marked a turning point: during the Xining period (熙寧, 1068-1077), the government set up a tea farm department in Chengdu and a horse buying office in Lintao (Gansu), thus making the official tea and horse trade institutionalized under the "division of tea and horse trade" (茶馬司). The Ming Dynasty further expanded the system, establishing twelve tea and horse trade divisions in China's northwest and southwest regions. To prevent smuggling, the Ming government implemented a tea patrol system, regularly dispatching officials to Shaanxi, Sichuan, and other places to supervise the trade and prohibit private tea dealing. For Tibet, tea was a vital staple: Tibetans relied on barley, wheat, mountain animals, and tea to survive; due to climate and altitude, tea compressed into rock-hard bricks that could keep for decades became an essential part of Tibetan culture and daily life since the 7th century A.D.
+(external competition pattern 外部竞争格局) Competition for political office or economic advantages is usually not between subgroups of Miao, but between local Miao and Han or other ethnic groups in the area. (Source: HUMA2635_9.pdf, p.22)
+
+# 11. The Tea and Horse Trade
+The tea and horse trade (茶馬貿易) was a barter commercial system between the agriculturists of interior provinces and the nomads of Tibet and Mongolia. While the main exchange items were tea and horses, the trade also encompassed various production and daily necessities. During the Tang Dynasty, such trade with northwest ethnic minorities was only sporadic and irregular, with no formal trade institution. The Song Dynasty marked a turning point: during the Xining period (熙寧, 1068-1077), the government set up a tea farm department in Chengdu and a horse buying office in Lintao (Gansu), thus making the official tea and horse trade institutionalized under the "division of tea and horse trade" (茶馬司). The Ming Dynasty further expanded the system, establishing twelve tea and horse trade divisions in China's northwest and southwest regions. To prevent smuggling 走私 (to prevent private tea), the Ming government implemented a tea patrol 巡查 system, regularly dispatching officials to Shaanxi, Sichuan, and other places to supervise the trade and prohibit private tea dealing. For Tibet, tea was a vital staple: Tibetans relied on barley, wheat, mountain animals, and tea to survive; due to climate and altitude, tea compressed into rock-hard bricks that could keep for decades became an essential part of Tibetan culture and daily life since the 7th century A.D.
 (Source: HUMA2635_10.pdf, pp.16, 19)
 
 
-> **Logic: Definition → Tang (informal) → Song (institutionalized) → Ming (expanded + regulated) → Tibetan significance**
+## Logic: Definition → Tang (informal) → Song (institutionalized) → Ming (expanded + regulated) → Tibetan significance
+茶马贸易是内部省份的农民与西藏蒙古的游牧民之间的物物交易体系，主要是茶和马，包括其他必需品。唐代，贸易是零星、私下、不定期的，没有官方机构。宋朝，熙宁年间设茶场司和买马处，使茶马贸易制度化，设立茶马司。明朝，制度进一步扩大，西北设立12个茶马司，实现茶叶巡查制度，防止走私，禁止民间贸易。对于西藏，茶是重要主食，藏人依靠大麦、小麦、茶叶和高原动物生存。由于气候和海拔，茶叶在西藏被压制成砖茶，长期保存。
 
 Definition: (tea-for-horses) Barter (物物交换) commercial trade between agriculturists of interior provinces and nomads of Tibet and Mongol; mainly tea and horses but not limited to these. (Source: HUMA2635_10.pdf p.19)
 
@@ -193,18 +207,23 @@ Ming: (12 trade divisions & tea patrol system巡查制度) Established 12 tea a
 
 Importance for Tibet: (Tibetan staple since 7th century) Tea has been a staple (主食/重要部分) in Tibetan homes and culture since the 7th century A.D.; compressed into rock-hard bricks kept for decades; buttered tea believed to warm the body, fight hunger, and aid digestion. (Source: HUMA2635_10.pdf p.16)
 
-## 12. The ethnicity classification and major ethnic groups in Hong Kong
-In Hong Kong, ethnicity is determined by self-identification based on a combination of cultural origins, nationality, color, and language, a practice aligned with UN recommendations. Hong Kong's system differs fundamentally from Mainland China, as ethnicity here is not officially structured around state-recognized minzu nationalities. Cantonese speakers form the dominant majority, while the major ethnic minority groups are Filipinos, Indonesians, South Asians, Mixed, and Whites. This classification reflects a semi-ethnocracy, where one ethnic group dominates without total exclusion, and a clear ethnic hierarchy exists. Within this hierarchy, Shanghainese speakers hold elite positions within the Chinese majority, South Asians occupy lower economic strata, and Southeast Asian domestic workers form the base. This hegemony (霸权) is institutionalized through exclusionary laws and norms, such as restricting domestic workers to two-year contracts and forcing them to leave within two weeks if terminated (解雇). (Sources: HUMA2635_12.pdf pp.3, 7, 10-12, 14, 16, 22)
+# 12. The ethnicity classification and major ethnic groups in Hong Kong
+In Hong Kong, ethnicity is determined by self-identification based on a combination of cultural origins, nationality, color, and language, a practice aligned with UN recommendations. Hong Kong's system differs fundamentally from Mainland China, as ethnicity here is not officially structured around state-recognized minzu nationalities. Cantonese speakers form the dominant majority, while the major ethnic minority groups are Filipinos, Indonesians, South Asians, Mixed, and Whites. This classification reflects a semi-ethnocracy, where one ethnic group dominates without total exclusion, and a clear ethnic hierarchy exists. Within this hierarchy, Shanghainese speakers hold elite positions within the Chinese majority, South Asians occupy lower economic strata, and Southeast Asian domestic workers form the base. This hegemony (霸权) is institutionalized through exclusionary laws and norms：non-Chinese permanent residents are ineligible for SAR passports and restricting domestic workers to two-year contracts and forcing them to leave within two weeks if terminated (解雇). (Sources: HUMA2635_12.pdf pp.3, 7, 10-12, 14, 16, 22)
 
 
-> **Logic: Classification & Contrast with mainland → Population → Ethnic hierarchy → Semi-ethnocracy concept & Example**
+## Logic: Classification & Contrast with mainland → Population → Ethnic hierarchy → Semi-ethnocracy concept & Example
+在香港，族裔分类基于文化、国籍、肤色和语言（自我认同），符合联合国建议，与大陆的国家承认的民族分类构建不同。粤语使用者占绝大多数，主要少数民族包括菲律宾人和印尼人等。这反映了Semi-ethnocracy：一个主导民族但不是完全exclusive，存在等级制度，上海人占据精英地位，南亚人较低经济阶层，东南亚佣工底层。这种霸权是通过排他性法律和社会规范制度化的，例如...
+...沪爷又win( •̀ ω •́ )y
 
-Classification & Contrast with mainland: (self-identification, UN standards vs minzu/nation system) Determined by self-identification based on cultural origins, nationality, color, and language, following UN recommendations; it does not use the state-recognized official (minzu) nationalities system of mainland China. (Source: HUMA2635_12.pdf pp.12, 22)
+Classification & Contrast with mainland: (self-identification, UN standards vs minzu system) Determined by self-identification based on cultural origins, nationality, color, and language, following UN recommendations; it does not use the state-recognized official (minzu) nationalities system of mainland China. (Source: HUMA2635_12.pdf pp.12, 22)
 
 Population: (Cantonese dominated, major minorities Filipinos,Indonesians) Cantonese speakers are the dominant majority; major minority groups include Filipinos, Indonesians, South Asians, Mixed, and Whites. (Source: HUMA2635_12.pdf pp.3, 7)
+
 Ethnic hierarchy: (internal Chinese hierarchy & minorities) A hierarchy exists where Shanghainese are elites, Chaozhou/Minnanese are intermediate position (中间阶层), Hakka are low-income, South Asians occupy lower class, and Southeast Asian domestic workers form the base. (Source: HUMA2635_12.pdf p.3)
 
 Semi-ethnocracy concept: (exclusionary laws & norms规范 without total exclusion) One ethnic group dominates without total exclusion; non-dominant elites occupy scattered positions of influence; exclusionary laws and norms (hegemony) disable other groups. (Source: HUMA2635_12.pdf pp.10-11)
+
+Example平替: non-Chinese permanent residents are ineligible for SAR passports and restricting domestic workers to two-year contracts and forcing them to leave within two weeks if terminated (解雇). 
 
 可加Example: (two-year contract & two weeks) Foreign domestic workers are restricted to two-year contracts and cannot change employment; if terminated, they must leave within two weeks unless proving non-responsibility. (Source: HUMA2635_12.pdf pp.14, 16)
 (Political rights inequality: SAR passport exclusion / three-year rule) Non-ethnic Chinese permanent residents ineligible for SAR passports even if born in Hong Kong; non-Chinese lose right of abode by living abroad for over three years, while PRC citizens never lose it. (Source: HUMA2635_12.pdf p.18)感觉挑一个例子背就行
