@@ -81,7 +81,7 @@
 **Structure (Explanation of differences):** (**religion and geography**) The designation of **five peoples** (汉满蒙回藏) in China is **not due to differences of race or blood** but to **religion and geographical environment**.
 (Source: HUMA2635_5.pdf p.17)
 
-**Mechanism:** (implicit — **minimizing ethnic distinctions**) By attributing ethnic differences to **religion and geography**, Chiang **reinforced a narrative of inherent racial unity** among all groups, including **Mongols, Manchus, and Tibetans**, under a single Chinese nationality.
+**Mechanism:** (implicit — **minimizing ethnic distinctions**) By attributing ethnic differences to **religion and geography**, Chiang **reinforced a narrative of inherent racial unity** among all groups, including **Mongols, Manchus, Uyghurs and Tibetans**, under a single Chinese nationality.
 (Inferred from HUMA2635_5.pdf p.17)
 
 **Historical facts (Political conclusion):** (**single cultural-political whole**) The Chinese people form a **"Single Cultural and Political whole"** (统一的民族与政治整体).
