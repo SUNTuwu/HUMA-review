@@ -343,7 +343,14 @@
     }
 
     .markdown-body strong {
-      font-weight: 650;
+      font-weight: 700;
+      color: #000000;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .markdown-body strong {
+        color: #ffffff;
+      }
     }
 
     .markdown-body hr {
