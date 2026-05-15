@@ -52,7 +52,7 @@ Revolutionaries' view: (Social Darwinism) (Led by Zhang Binglin, Zou Rong, and 
 Revolutionary theoretical tool: (Han ethnocentrism) Used the "survival of the fittest" idea to justify the old ethnocentric celebration of the Han. (Source: HUMA2635_5.pdf p.6) 感觉不如直接说意识形态的对立分裂‘This marked a sharp ideological split between an inclusive, culture-based vision of China and an exclusive, race-based one.’
 
 # 4. Chiang Kai-shek’s arguments about peoples in China
-Chiang Kai-shek argued that China's various clans 氏族 belonged to the same racial stock (种族), framing the nation as a "Single Cultural and Political whole." He claimed the designation 划分 of five peoples in China resulted not from race or blood differences but from regional and religious factors. This argument directly minimized ethnic distinctions, which were instead attributed to geography and religion, thereby reinforcing a narrative of inherent racial unity among all groups 统一民族叙事, including Mongols, Manchus, and Tibetans, under a single Chinese nationality.
+Chiang Kai-shek argued that China's various clans 氏族 belonged to the same racial stock (种族), framing the nation as a "Single Cultural and Political whole." He claimed the designation 划分 of five peoples in China resulted not from race or blood differences but from regional and religious factors. This argument directly minimized ethnic distinctions, which were instead attributed to geography and religion, thereby reinforcing a narrative of inherent racial unity among all groups 统一民族叙事, including Mongols, Manchus, Uyghurs and Tibetans, under a single Chinese nationality.
 (Source: HUMA2635_5.pdf, p.17)
 
 ## Logic: Core claim → Explanation of differences → Political conclusion
